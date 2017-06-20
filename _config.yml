@@ -1,0 +1,15 @@
+title: programming-experience
+
+host: http://programmingexperience.org
+baseurl: /
+
+highlighter: rouge
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+
+host: 0.0.0.0
+# EOF
